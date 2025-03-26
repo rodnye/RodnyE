@@ -20,7 +20,9 @@
 
 <div align="center">
   <h3>Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,angular,astro,electron"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,astro,electron"/>
+  
 </div>
 
 <div align="center">
