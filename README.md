@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3DF710&center=true&vCenter=true&width=435&lines=Hi+there!+My+name+is+Rodny+Estrada%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+Fullstack+developer+%F0%9F%91%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&pause=1000&color=F78800&center=true&vCenter=true&width=435&lines=Hi+there!+My+name+is+Rodny+Estrada%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+Fullstack+developer+%F0%9F%8D%8A" alt="Typing SVG" />
 </div>
 
----
-
 <div align="center">
-  <h2> ~ About Me ~ </h2>
+  <h2> About Me 🍊 </h2>
 </div>
 
 👋 Hi! I'm Rodny, a passionate self-taught **Fullstack Developer** 💻.
