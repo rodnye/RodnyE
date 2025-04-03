@@ -14,9 +14,6 @@
 - [x] 🐧 Linux geek.  
 - [x] 🤖 Lover of web technologies, both server-side and client-side. Always eager to learn and build new things ✨.
 
-![rodnye's Stats](https://github-readme-stats.vercel.app/api?username=rodnye&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-![rodnye's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodnye&theme=slateorange&hide_border=true)
-
 <div align="center">
   <h2>🔥 Web Skills 🔥</h2>
 </div>
@@ -49,4 +46,11 @@
 <div align="center">
   <h3>Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py"/>
+</div>
+
+---
+
+<div align="center">
+  <img alt="rodnye's Stats" src="https://github-readme-stats.vercel.app/api?username=rodnye&theme=slateorange&show_icons=true&hide_border=true&count_private=true">
+  <img alt="rodnye's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rodnye&theme=slateorange&hide_border=true">
 </div>
