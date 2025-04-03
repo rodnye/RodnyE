@@ -6,11 +6,16 @@
   <h2> About Me 🍊 </h2>
 </div>
 
-👋 Hi! I'm Rodny, a passionate self-taught **Fullstack Developer** 💻.
+<p align="center">
+  Hi! I'm Rodny, a passionate self-taught <b>Fullstack Developer 💻.</b>
+</p>
 
-🍕 Coffee and pizza addict (the perfect coding fuel!).  
-🐧 Linux geek.  
-🤖 Lover of web technologies, both server-side and client-side. Always eager to learn and build new things ✨.
+- [x] 🍕 Coffee and pizza addict (the perfect coding fuel!).  
+- [x] 🐧 Linux geek.  
+- [x] 🤖 Lover of web technologies, both server-side and client-side. Always eager to learn and build new things ✨.
+
+![rodnye's Stats](https://github-readme-stats.vercel.app/api?username=rodnye&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+![rodnye's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodnye&theme=slateorange&hide_border=true)
 
 <div align="center">
   <h2>🔥 Web Skills 🔥</h2>
