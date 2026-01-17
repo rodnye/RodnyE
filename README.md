@@ -36,6 +36,7 @@
   <h3>_frontend_skills</h3>
   <img src="https://skillicons.dev/icons?i=html,css,ts,nodejs"/>
   <img src="https://skillicons.dev/icons?i=react,vue,angular,astro,electron"/>
+  <br>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui,webpack,vite"/>
 </div>
 
