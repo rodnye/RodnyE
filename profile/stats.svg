@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rodny Estrada's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 102, Total Commits  (last year) : 628, Total PRs: 41, Total Issues: 43, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 103, Total Commits  (last year) : 628, Total PRs: 41, Total Issues: 43, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 86.09139924425175;
+        stroke-dashoffset: 85.91128270637823;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >102</text>
+      >103</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
